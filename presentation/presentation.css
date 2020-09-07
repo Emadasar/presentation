@@ -1,0 +1,10 @@
+h1{
+    text-align-last: center;
+    background: deepskyblue;
+    background:linear-gradient(deepskyblue,gray)
+}
+div{
+    background: deepskyblue;
+    background:linear-gradient(deepskyblue,gray);
+    text-align-last: center
+}
